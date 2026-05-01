@@ -62,9 +62,45 @@ a:hover {
     border-radius: 10px;
 }
 /* header section style end */
-/* header section style start */
 
-/* header section style end */
+/* banner section style start */
+#bannerPart{
+  /* padding: 182px 0; */
+  background: #5956E8;
+  color: #fff;
+}
+.bannerContent{
+    padding-top: 250px;
+    padding-bottom: 234px;
+}
+.bannerContent h1{
+    font-size: 65px;
+    line-height: 80px;
+    font-weight: 700;
+
+}
+.bannerContent p{
+    width: 542px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 27px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+.bannerBtn a{
+    color: #5956E8;
+    background: white;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 13px 22px;
+    border-radius: 10px;
+
+}
+.bannerImg{
+    padding: 183px 0;
+}
+/* banner section style end */
+
 /* header section style start */
 
 /* header section style end */
